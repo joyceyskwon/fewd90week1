@@ -1,1 +1,34 @@
+body {
+	font-family: helvetica;
+	background-color: #dddddd;
+	color: #000000;
+}
 
+a {
+	color: grey;
+	font-weight: bold;
+}
+
+ul {
+	font-style: italic;
+}
+
+h1 {
+	font-size: 60px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: bold;
+}
