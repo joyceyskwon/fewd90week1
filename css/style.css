@@ -1,0 +1,41 @@
+body {
+	font-family: avenir;
+	font-size: 23px;
+	background-color: #ffffff;
+	color: #2e2a27;
+}
+
+a {
+	color: grey;
+	font-family: avenir;
+}
+
+ul {
+	font-style: italic;
+}
+
+h1 {
+	font-family: handkerchief;
+	font-size: 100px;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+h2 {
+	font-family: handkerchief;
+	font-size: 60px;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: bold;
+}
